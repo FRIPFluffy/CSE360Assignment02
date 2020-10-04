@@ -1,5 +1,12 @@
 package cse360assignment02;
-//Jalen Solis
+/**
+ * 
+ * @author Jalen Solis
+ * CSE 360 Assignment01: Version Control
+ * Assignment Description: Create the Adding Machine file and perform operations based on input
+ * 
+ */
+
 
 public class AddingMachine 
 {
