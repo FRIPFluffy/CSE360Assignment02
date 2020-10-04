@@ -44,6 +44,7 @@ public class AddingMachine
   	test.subtract(2);
   	test.add(5); 
   	System.out.println(test.toString());
+  	System.out.println("Total is: " + test.getTotal());
   }
 
 }
